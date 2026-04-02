@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Baby Logic",
     "section": "",
-    "text": "Preface\n「邏輯」有很多種，「邏輯學」也有很多種。不同的人學習邏輯學有不同的目的。本筆記中的「邏輯學」知識主要服務於語言、思維的分析，不追求邏輯學在其他領域的功能。\n本筆記大致列出邏輯基礎學習階段的主要材料，主要參考（chāoxí）以下課本攢集而成：\n其中，直接取自《符號邏輯講義》的材料最多，取自《邏輯學導論》較多，素樸集合論、表列演算則直接取自完全開源的 Open Logic Project 項目源碼。",
+    "text": "Preface\n諸位，鄙人高松年。有人問，一個老昆蟲學家怎能來敎邏輯學？荒謬！邏輯者，思想之解剖學也。世人言辭猶如亂飛的蒼蠅，雜亂無章且爬滿謬誤的寄生蟲。我們唯有以科學之嚴謹，將這些紛繁的論點分門別類，用邏輯的大頭針將其死死釘在真理的標本板上！本校長今日便是要敎你們，如何用顯微鏡剝去詭辯的僞裝，做個明辨是非、循規蹈矩的正人君子。\nDear students, I am Gāo Sōngnián. Some may ask, how can an old entomologist teach logic ? Preposterous ! Logic is but the anatomy of thought. People’s words buzz around like chaotic flies, infested with the parasites of fallacy. We must apply scientific rigor to classify these tangled arguments, firmly pinning them to the specimen board of truth with the needles of logic ! Today, as your President, I shall teach you to use a microscope to strip away the disguises of sophistry, so you may become upright, disciplined individuals who clearly distinguish right from wrong.\n「邏輯」有很多種，「邏輯學」也有很多種。不同的人學習邏輯學有不同的目的。本筆記中的「邏輯學」知識主要服務於語言、思維的分析，不追求邏輯學在其他領域的功能。\n本筆記大致列出邏輯基礎學習階段的主要材料，主要參考（chāoxí）以下課本攢集而成：\n其中，直接取自《符號邏輯講義》的材料最多，取自《邏輯學導論》較多，素樸集合論、表列演算則直接取自完全開源的 Open Logic Project 項目源碼。",
     "crumbs": [
       "Preface"
     ]
